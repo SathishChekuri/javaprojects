@@ -8,7 +8,8 @@
   Java Scanner
   Java Collections Framework
 ## Project Structure
-ATM/
+ATM
+
 |__ atm.java
 
 |__ atminterface.java
@@ -33,4 +34,5 @@ ATM/
    This project helped in understanding Java OOP concepts and building a structured, multi-class Java application.
 ## Author
   Sathish Chekuri.
+
 
